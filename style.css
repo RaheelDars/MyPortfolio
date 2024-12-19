@@ -1,0 +1,60 @@
+a.nav-link:hover{
+    border: 2px solid white;
+    border-radius: 5px;
+    color: blue;
+    box-shadow: 3px 3px grey;
+    padding: 10px;
+    margin: 5px;
+  
+ 
+ }
+ .navbar-nav a{
+    color: black;
+    font-weight: bolder;
+
+    
+}
+
+.col-lg-6 a:hover{
+     background-color:red;
+     color: white;
+}
+.image-container{
+     /* background: gold; */
+     width: 28rem;
+     aspect-ratio: 1;
+     border-radius: 60%;
+     margin: 10px;
+     border-top: 1rem solid black;
+     border-bottom: 1rem solid black;
+     background-image: url("dp2.jfif");
+     background-position: center;
+     background-size: 100%;
+     box-shadow:
+      0 0  1rem black,
+      inset 0 0 1rem black;
+
+}
+
+.hero-section{
+    height: 85vh;
+}
+h1{
+    font-size: 4rem;
+}
+p{
+    font-size:0.95rem;
+}
+.para{
+    max-width: 500px;
+   
+}
+.main-text{
+    letter-spacing: .2rem;
+    font-size: .8rem;
+    font-weight: 500;
+}
+.main-card{
+    
+    margin-bottom: 20px;
+}
